@@ -1,0 +1,5 @@
+com/aiq/integration/AIQ.class
+com/aiq/integration/LoadDataObject.class
+com/aiq/integration/MetaDataParser.class
+com/aiq/integration/LoanDataPointParser.class
+com/aiq/integration/DBJsonCreator.class
